@@ -16,7 +16,7 @@ The program handles user input for student IDs and displays the final team info 
 | **Final Execution Result 1** | **Final Execution Result 2** |
 | :---: | :---: |
 | ![Final Screen 1](screenshots/result_final_1.jpg) | ![Final Screen 2](screenshots/result_final_2.jpg) |
-| [cite_start]*User inputs IDs and calculates summation [cite: 302-306]* | [cite_start]*Final screen with "Happy New Year" & team info * |
+| *User inputs IDs* | *calculates summation and Final screen with "Happy New Year" & team info* |
 
 ### 2. Julia Set Animation
 The application renders a shifting fractal pattern by modifying the `cY` parameter in real-time.
@@ -24,7 +24,7 @@ The application renders a shifting fractal pattern by modifying the `cY` paramet
 | **Animation Frame A** | **Animation Frame B** |
 | :---: | :---: |
 | ![Julia Set 1](screenshots/julia_1.png) | ![Julia Set 2](screenshots/julia_2.png) |
-| [cite_start]*Fractal rendering using fixed-point arithmetic [cite: 310-312]* | *Different stage of the animation loop* |
+| *Fractal rendering using fixed-point arithmetic* | *Different stage of the animation loop* |
 
 ## 📂 File Structure
 
