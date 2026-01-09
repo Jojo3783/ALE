@@ -15,7 +15,7 @@ The program handles user input for student IDs and displays the final team info 
 
 | **ID Input & Summation** | **Final Execution Result** |
 | :---: | :---: |
-| ![Final Screen 2](screenshots/result_input.png) | ![Final Screen 1](screenshots/result_final.png) |
+| ![Final Screen 2](screenshots/result_input.jpg) | ![Final Screen 1](screenshots/result_final.jpg) |
 | [cite_start]*User inputs IDs and calculates summation [cite: 302-306]* | [cite_start]*Final screen with "Happy New Year" & team info * |
 
 ### 2. Julia Set Animation
